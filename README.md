@@ -1,0 +1,1 @@
+This is an implementation of the Etch-a-Sketch project from The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project). When finished, there will be an HTML page featuring a kind of sketchpad.
